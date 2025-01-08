@@ -1,3 +1,4 @@
+
 # SweepicAI
 
 **Sweepic BE - AI**
@@ -24,6 +25,7 @@
 ## 주요 라이브러리
 
 - **@google-cloud/vision** (`^4.3.2`): Google Cloud Vision API와 상호작용하기 위한 공식 클라이언트 라이브러리. 이미지 OCR 및 분류 작업에 사용.
+
 
 ---
 
